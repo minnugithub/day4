@@ -1,0 +1,16 @@
+body{background-color: darkgrey;}
+header{background-color: rgb(38, 50, 119);background-size: cover; }
+h1{color: rgb(247, 233, 233); text-align: center; text-shadow: rgb(150, 132, 132); text: size adjust 4px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+#menu{background-color: rgb(38, 50, 119);}
+.n1{background-color: rgb(232, 233, 238);
+    color: rgb(240, 240, 245);
+    list-style-type: none;
+    padding: 0;
+    text-align: center;}
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 5%;}
+h2{color: midnightblue;text-align: center;}
+h3{color: black;text-align: center;}

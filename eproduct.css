@@ -1,0 +1,23 @@
+body{background-color: darkgrey;}
+header{background-color: rgb(38, 50, 119);background-size: cover; }
+h1{color: rgb(247, 233, 233); text-align: center; text-shadow: rgb(150, 132, 132); text: size adjust 4px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+#menu{background-color: rgb(38, 50, 119);}
+.n1{background-color: rgb(232, 233, 238);
+    color: rgb(240, 240, 245);
+    list-style-type: none;
+    padding: 0;
+    text-align: center;}
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 5%;}
+ div{padding: 15px;margin: 30px;border: #32136b dashed 4px;}
+ p{color: black;font-family: Georgia, 'Times New Roman', Times, serif;margin: 15px;border: brown 3px solid;}
+ h5{color: rgb(37, 13, 77);text-decoration: underline;}
+ h4{color: rgb(17, 11, 100); text-align: center; text-shadow: rgb(92, 87, 87);}
+ .ttle{background-color: #3f34d4;background-size: auto;color:#3f34d4 ;text-decoration:underline ;
+ }
+      
+          
+          
